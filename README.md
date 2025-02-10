@@ -3,7 +3,7 @@
 ![Profile Banner](https://user-images.githubusercontent.com/placeholder/banner.png)  
 
 ## 📌 About Me  
-Dynamic and motivated **Software Testing** professional skilled in **Selenium, Cypress, Java, JavaScript, and Python**. Experienced in **manual and automation testing**, with strong problem-solving abilities and attention to detail. Adept at designing and executing test scenarios to ensure efficient identification and documentation of software issues.  
+Dynamic and motivated **Software Testing** professional skilled in **Selenium, Cypress, Java, JavaScript. Experienced in **manual and automation testing**, with strong problem-solving abilities and attention to detail. Adept at designing and executing test scenarios to ensure efficient identification and documentation of software issues.  
 
 ---
 
