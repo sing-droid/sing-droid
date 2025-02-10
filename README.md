@@ -97,7 +97,9 @@ I am a results-driven **Software Development Engineer in Test (SDET)** with expe
 - 🔗 **LinkedIn**: [Sonu Singh](https://www.linkedin.com/in/sonu-singh-67397b192)  
 - 💻 **GitHub**: [singh-droid](https://github.com/singh-droid)  
 - 📧 **Email**: [sonusingh82342@gmail.com](mailto:sonusingh82342@gmail.com)  
-- 🌐 **Portfolio**: [sonu-portfolio](https://sonu-portfolio-zrz6.vercel.app/)  
+- 🌐 **Portfolio**: [sonu-portfolio](https://sonu-portfolio-zrz6.vercel.app/)
+- - 🌐 **Resume**: [sonu-resume](https://drive.google.com/file/d/1r1yaEZfNXOkkivVmBBUyTH-pKUnIq5Ys/view?usp=sharing)  
+  
 
 ---
 
