@@ -1,78 +1,104 @@
-# 🚀 Sonu Singh - SDET/QA  
+# 👋 Hi, I'm Sonu Singh!  
+### *SDET | QA Engineer | Automation & Manual Testing Specialist*  
 
-![Profile Banner](https://user-images.githubusercontent.com/placeholder/banner.png)  
-
-## 📌 About Me  
-Dynamic and motivated **Software Testing** professional skilled in **Selenium, Cypress, Java, JavaScript. Experienced in **manual and automation testing**, with strong problem-solving abilities and attention to detail. Adept at designing and executing test scenarios to ensure efficient identification and documentation of software issues.  
+I am a results-driven **Software Development Engineer in Test (SDET)** with expertise in **automation and manual testing**. I specialize in designing **robust testing frameworks**, ensuring software quality, and collaborating with cross-functional teams to deliver seamless user experiences. My passion for continuous learning and innovation drives me to explore cutting-edge tools and technologies in the testing domain.  
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠️ *Technical Skills*  
 
-| **Technology** | **Logo** | **URL** |
-|--------------|----------|---------|
-| Selenium | ![Selenium](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png) | [Selenium](https://www.selenium.dev/) |
-| Cypress | ![Cypress](https://www.cypress.io/static/33498b5f9500da85074f14c22594f49f/cypress-logo.webp) | [Cypress](https://www.cypress.io/) |
-| Java | ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg) | [Java](https://www.java.com/) |
-| JavaScript | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-| Python | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | [Python](https://www.python.org/) |
-| Git | ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg) | [Git](https://git-scm.com/) |
-| Jira | ![Jira](https://upload.wikimedia.org/wikipedia/en/8/8f/Jira_Logo.svg) | [Jira](https://www.atlassian.com/software/jira) |
-| Postman | ![Postman](https://www.postman.com/assets/logos/postman-logo.png) | [Postman](https://www.postman.com/) |
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🧪 Testing Tools & Frameworks  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+### 🛠️ Development Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-## 📂 Projects  
+## 📂 *Projects*  
 
-### 🔹 [Automation Testing - TestStore](https://github.com/sing-droid/AutomationTestStoreProject1)  
+### 1️⃣ [**Automation Testing - TestStore**](https://github.com/sing-droid/AutomationTestStoreProject1)  
 📌 **Tech Stack:** Cypress, JavaScript, CI/CD  
 
-- 🛠 **Developed** end-to-end **automation tests** for the TestStore website using **Cypress**.  
+- ✅ Developed **end-to-end automation tests** for the TestStore website using **Cypress**.  
 - 🛒 Automated **product search, add-to-cart, checkout, and user authentication** workflows.  
-- ⚡ Implemented **reusable test scripts** for improved efficiency and scalability.  
-- 🚀 Integrated tests with **CI/CD pipelines** to enable continuous testing and early bug detection.  
+- 🚀 Integrated tests with **CI/CD pipelines** for continuous testing and early bug detection.  
 
 🔗 **GitHub Repository:** [TestStore Automation Project](https://github.com/sing-droid/AutomationTestStoreProject1)  
 
 ---
 
-### 🔹 [Manual Testing - MEETSYNC Website](https://github.com/sing-droid/MeetSyncManualTesting)  
+### 2️⃣ [**Manual Testing - MEETSYNC Website**](https://github.com/sing-droid/MeetSyncManualTesting)  
 📌 **Tech Stack:** MS Excel, Bug Reporting, Test Documentation  
 
 - 📝 Conducted **manual testing** for the **MEETSYNC website**.  
-- 🛠 Designed and executed **test cases** for **Sign-up, Login, Dashboard, and User Management**.  
-- 🐞 **Identified and reported bugs** with proper documentation.  
+- 🔍 Designed and executed **test cases** for **Sign-up, Login, Dashboard, and User Management**.  
+- 🐞 Identified and reported bugs with structured documentation.  
 - ✅ Verified critical functionalities like **User Authentication and Meeting Scheduling**.  
 
 🔗 **GitHub Repository:** [MEETSYNC Manual Testing Project](https://github.com/sing-droid/MeetSyncManualTesting)  
 
 ---
 
-## 💼 Experience  
+## 🏆 *Achievements*  
 
-### **Provana India Pvt. Ltd.**  
-📅 **March 2022 - November 2023** | **Process Analyst**  
-- Managed **end-to-end accounts receivable** processes for US-based healthcare providers.  
-- Ensured **timely claim submissions and payments**, reducing aging accounts.  
-- Communicated with **insurance companies, patients, and stakeholders** to resolve claim denials.  
+- **Manual Testing Project Completion** – Successfully conducted **end-to-end manual testing** for a live web application.  
+- **Automation Testing Implementation** – Designed **automation test scripts** using Cypress and JavaScript.  
+- **Bug Reporting & Tracking** – Used Jira for structured **bug tracking** and **test management**.  
 
 ---
 
-## 🎓 Education  
-- 🎓 **Bachelor of Computer Applications (BCA)** | *Sikkim Professional University (2022 - 2024)*  
-- 🎓 **Diploma** | *JKP Polytechnic (2016 - 2018)*  
+## 🔮 *Future Goals*  
+
+- 🔍 Master advanced tools like **Playwright** and **Appium** for mobile testing.  
+- ⚡ Gain expertise in **performance testing** with **JMeter** and **Gatling**.  
+- 🤖 Explore **AI-driven testing frameworks** to enhance test coverage and efficiency.  
+- 🎯 Contribute to **open-source testing projects** and build a personal automation testing library.  
+- 📝 Share knowledge through **blogs, tutorials, and mentorship** for aspiring QA professionals.  
 
 ---
 
-## 📬 Contact & Links  
+## 📜 *Professional Summary*  
 
-📧 **Email**: [sonusingh82342@gmail.com](mailto:sonusingh82342@gmail.com)  
-📍 **Location**: Bihar, India  
-
-🔗 **Portfolio**: [sonu-portfolio](https://sonu-portfolio-zrz6.vercel.app/)  
-🔗 **GitHub**: [singh-droid](https://github.com/singh-droid)  
-🔗 **LinkedIn**: [Sonu Singh](https://www.linkedin.com/in/sonu-singh-67397b192)  
+- 🎯 Skilled in developing **automation frameworks** using **Cypress, Selenium, and TestNG**.  
+- 💡 Proficient in programming languages like **Java, JavaScript, and Python**.  
+- 🕵️‍♂️ Experienced in **manual testing**, including exploratory, regression, and usability testing.  
+- 🚀 Adept at **API testing** using **Postman** and bug tracking with **Jira**.  
+- 🔧 Focused on optimizing testing processes through **POM (Page Object Model)** and **BDD (Behavior-Driven Development)** methodologies.  
+- 🤝 Strong communicator with the ability to work in **collaborative, fast-paced environments**.  
 
 ---
 
-⭐ **Let's Connect & Collaborate on Testing Projects!** 🚀  
+## 📊 *GitHub Insights*  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singh-droid&show_icons=true&theme=merko" alt="Sonu's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singh-droid&theme=merko" alt="GitHub Streak" width="48%">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singh-droid&layout=compact&theme=merko" alt="Top Languages" width="50%">
+</div>
+
+---
+
+## 🤝 *Connect with Me*  
+
+- 🔗 **LinkedIn**: [Sonu Singh](https://www.linkedin.com/in/sonu-singh-67397b192)  
+- 💻 **GitHub**: [singh-droid](https://github.com/singh-droid)  
+- 📧 **Email**: [sonusingh82342@gmail.com](mailto:sonusingh82342@gmail.com)  
+- 🌐 **Portfolio**: [sonu-portfolio](https://sonu-portfolio-zrz6.vercel.app/)  
+
+---
+
+🚀 **Let's Connect & Collaborate on Testing Projects!** 🔥
